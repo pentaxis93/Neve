@@ -11,15 +11,15 @@
     ./colorschemes/rose-pine.nix
 
     ./completion/cmp.nix
-    ./completion/copilot.nix
+    # ./completion/copilot.nix
     ./completion/lspkind.nix
 
-    ./dap/dap.nix
+    # ./dap/dap.nix
 
     ./filetrees/neo-tree.nix
     ./git/gitsigns.nix
     ./git/diffview.nix
-    # ./git/lazygit.nix
+    ./git/lazygit.nix
     ./git/neogit.nix
 
     ./languages/nvim-jdtls.nix
@@ -54,7 +54,7 @@
     ./ui/nui.nix
 
     ./utils/better-escape.nix
-    ./utils/neocord.nix
+    # ./utils/neocord.nix
     ./utils/flash.nix
     ./utils/hardtime.nix
     ./utils/harpoon.nix
