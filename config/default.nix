@@ -13,6 +13,7 @@
     ./completion/cmp.nix
     # ./completion/copilot.nix
     ./completion/lspkind.nix
+    ./completion/supermaven.nix
 
     # ./dap/dap.nix
 
