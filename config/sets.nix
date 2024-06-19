@@ -6,6 +6,9 @@
 }: {
   config = {
     opts = {
+      # Always use clipboard for all operations
+      clipboard = "unnamedplus";
+
       # Enable relative line numbers
       number = true;
       relativenumber = true;
